@@ -2,7 +2,7 @@
 
 ![banner](https://e1.pxfuel.com/desktop-wallpaper/1016/49/desktop-wallpaper-react-nodejs-express-mongodb-mern-stack.jpg)
 
-<p>Hello i am Riad. My core skill based on Javascript</p>
+<p>Hello, i am Riad. My core skill based on Javascript</p>
 <p>and i love to do most thing in Javascript. I am skilled in frontend development passion for learning and implementing new technologies.</p>
 
 
@@ -32,7 +32,9 @@
 </div>
 
 
-
+<div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=riadsarkar45&theme=transparent&exclude_days=Sun%2CFri" alt="GitHub Streak" /></a>
+</div>
 
 
 <!--
