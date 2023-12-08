@@ -3,7 +3,7 @@
 ![banner](https://e1.pxfuel.com/desktop-wallpaper/1016/49/desktop-wallpaper-react-nodejs-express-mongodb-mern-stack.jpg)
 
 <p>Hello i am Riad. My core skill based on Javascript</p>
-<p>and i love to do most thing in Javascript. I am skilled in frontend development passion for learning and implementing new technologies</p>
+<p>and i love to do most thing in Javascript. I am skilled in frontend development passion for learning and implementing new technologies.</p>
 
 
 # Tech Stack
@@ -24,8 +24,12 @@
     <img src="https://camo.githubusercontent.com/6076f8ce5914fef0c0bcd8d5f3a31175e60d3ef8d2ff956dc7a1f124409a8d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666c61742d737175617265266c6f676f3d6669726562617365" alt="firebase">
 </div>
 
-
-
+# Social
+<div style="display: flex; align-items: center;">
+    <a href="https://www.facebook.com/riad.sarkar.92?mibextid=ZbWKwL"><img src="https://camo.githubusercontent.com/6507b6af1fa0c23a32321b4594fe0f353fc56a2e6721ea67a5f51cd830c85b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f6c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="fb"></a>
+    <a href="https://www.linkedin.com/in/riad-sarkar-frontend-dev/"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedIn"></a>
+    <a href="https://stackoverflow.com/users/23045824/riad-sarkar"><img src="https://camo.githubusercontent.com/7ebc5a2448e32119a01bdae64290fcf67ee83b9f2427894ca50888d342d5dd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="stack"></a>
+</div>
 
 
 
@@ -45,6 +49,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-git add .
-git commit -m "tech 3"
-git push
