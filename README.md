@@ -5,12 +5,10 @@
 <p>Hello i am Riad. My core skill based on Javascript</p>
 <p>and i love to do most thing in Javascript. I am skilled in frontend development passion for learning and implementing new technologies</p>
 
-<div style="display: flex">
-    <div><img width="40" src="https://assets.dryicons.com/uploads/icon/preview/3847/small_2x_world.png" alt="global" /></div>
 
-    # Social
-</div>
+# Tech Stack
 
+[https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg]
 
 
 
