@@ -5,7 +5,7 @@
 <p>Hello i am Riad. My core skill based on Javascript</p>
 <p>and i love to do most thing in Javascript. I am skilled in frontend development passion for learning and implementing new technologies</p>
 
-<img src="https://assets.dryicons.com/uploads/icon/preview/8775/small_2x_b85b5d19-628e-4445-bbc4-9819c1f67c1d.png" alt="global" />
+<img width="300" src="https://assets.dryicons.com/uploads/icon/preview/3847/small_2x_world.png" alt="global" />
 
 
 
