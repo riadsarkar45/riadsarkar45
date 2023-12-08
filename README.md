@@ -6,12 +6,9 @@
 <p>and i love to do most thing in Javascript. I am skilled in frontend development passion for learning and implementing new technologies</p>
 
 <div style="display: flex">
-    <div><img width="40" src="https://assets.dryicons.com/uploads/icon/preview/3847/small_2x_world.png" alt="global" />
+    <div><img width="40" src="https://assets.dryicons.com/uploads/icon/preview/3847/small_2x_world.png" alt="global" /></div>
 
-</div>
-
-# Social
-
+    # Social
 </div>
 
 
