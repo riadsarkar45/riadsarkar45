@@ -42,11 +42,12 @@
 
 # 🔭 My Projects
 
-- Blood Donation Managment
-    - # Tools
-
-
-
+- # Blood Donation Managment
+    - ### Tools
+        - Frontend (React, MUI, tailwind, daisyUI)
+        - Authenticated with firebase
+        - Backend (Node, Express)
+        - Database (MongoDB)
 <!--
 **riadsarkar45/riadsarkar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
