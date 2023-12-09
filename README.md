@@ -42,7 +42,7 @@
 
 # 🔭 My Projects
 
-- # Blood Donation Managment
+- # Blood Donation Managment || <a href="https://curious-decision.surge.sh/">Live Link</a>
     - ### Tech Stack
         - Frontend (React, MUI, tailwind, daisyUI, React Router)
         - Authenticated with firebase
@@ -58,7 +58,7 @@
 #### Short Desc
 <p>Blood Donation Management where user can see blood donation requests. Anybody can become a member and help others with donors priceless blood. User can make donation requests and donor can response short couple miniutes</p>
 
-- # TechReviwer
+- # TechReviwer || <a href="https://complete-cry.surge.sh/">Live Link</a>
     - ### Tech Stacks
         - Frontend (React, tailwind, daisyUI, React Router)
         - Backend (Node, Express)
@@ -73,7 +73,7 @@
 <p>TechReviwer application is for showcase the tech products. If the user want user can add new tech product, see product details and save to the cart</p>
 
 
-- # Fashion Info
+- # Fashion Info || <a href="http://hurt-gold.surge.sh/">Live Link</a>
     - ### Tech Stacks
         - Frontend (React, tailwind, daisyUI, React Router)
         - Backend (Node, Express)
