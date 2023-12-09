@@ -35,7 +35,7 @@
 
 # Stats
 <!-- Add a flexbox layout with a gap of 4px -->
-<div display="flex">
+<div style="display: flex; align-items: center;">
     <!-- First image with a link -->
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=riadsarkar45&theme=transparent&exclude_days=Sun%2CFri" alt="GitHub Streak" />
