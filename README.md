@@ -32,12 +32,12 @@
 </div>
 
 # Stats
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=riadsarkar45&theme=transparent&exclude_days=Sun%2CFri" alt="GitHub Streak" />
+    </a>
+</p>
 
-# Stats
-
-<div style="margin: auto; width: 50%;">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=riadsarkar45&theme=transparent&exclude_days=Sun%2CFri" alt="GitHub Streak" /></a>
-</div>
 
 
 
