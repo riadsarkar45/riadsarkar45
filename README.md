@@ -34,8 +34,8 @@
 </div>
 
 # Stats
-<!-- Add a flexbox layout with a gap of 4px -->
-<div align="center">
+<!-- Flexbox layout centered horizontally -->
+<div align="center" style="display: flex; gap: 4px; justify-content: center;">
     <!-- First image with a link -->
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=riadsarkar45&theme=transparent&exclude_days=Sun%2CFri" alt="GitHub Streak" />
@@ -43,9 +43,7 @@
     <a href="your-second-link-url">
         <img src="https://camo.githubusercontent.com/a086ae52d3bc5f63a5a4f6e62ed38d60ed01c2e0096d7ecb802b104f49767e4a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d6461726b2367682d6461726b2d6d6f64652d6f6e6c79" alt="Your Second Image" />
     </a>
-    <a>
-        <img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg">
-    </a>
+    <img src="https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg" />
 </div>
 
 
