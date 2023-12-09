@@ -55,6 +55,9 @@
         - User can write ARTICLE/BLOG about something they want
         - User can search for a donor and help the recipient
 
+#### Short Desc
+<p>Blood Donation Management where user can see blood donation requests. Anybody can become a member and help others with donors priceless blood. User can make donation requests and donor can response short couple miniutes</p>
+
 - # TechReviwer
     - ### Tech Stacks
         - Frontend (React, tailwind, daisyUI, React Router)
@@ -66,7 +69,7 @@
         - User can save the product to the cart
         - User can add new tech product
 
-###### Short Desc
+#### Short Desc
 <p>TechReviwer application is for showcase the tech products. If the user want user can add new tech product, see product details and save to the cart</p>
 
 
@@ -80,7 +83,8 @@
         - User can save the purchase the service
         - User can add new services
 
-
+#### Short Desc
+<p>Fashion Info where shows trendy fashionable products. User can add fashion info (only registered users are allowed) and see the details of the product and save the product to the cart</p>
 
 
 <!--
