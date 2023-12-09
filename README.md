@@ -43,11 +43,18 @@
 # 🔭 My Projects
 
 - # Blood Donation Managment
-    - ### Tools
+    - ### Tech Stack
         - Frontend (React, MUI, tailwind, daisyUI)
         - Authenticated with firebase
         - Backend (Node, Express)
         - Database (MongoDB)
+
+    - ### Features
+        - Responsive Client
+        - User can raised hand to the needed person via confirming donation rerquest
+        - User can can make blood Donation REQUEST
+        - User can write ARTICLE/BLOG about something they want
+        - User can search for a donor and help the recipient
 <!--
 **riadsarkar45/riadsarkar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
