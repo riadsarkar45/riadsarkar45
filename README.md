@@ -26,7 +26,7 @@
     <img src="https://camo.githubusercontent.com/6076f8ce5914fef0c0bcd8d5f3a31175e60d3ef8d2ff956dc7a1f124409a8d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666c61742d737175617265266c6f676f3d6669726562617365" alt="firebase">
 </div>
 
-# Social
+# 📫 Social
 <div style="display: flex; align-items: center;">
     <a href="https://www.facebook.com/riad.sarkar.92?mibextid=ZbWKwL"><img src="https://camo.githubusercontent.com/6507b6af1fa0c23a32321b4594fe0f353fc56a2e6721ea67a5f51cd830c85b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f6c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="fb"></a>
     <a href="https://www.linkedin.com/in/riad-sarkar-frontend-dev/"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedIn"></a>
@@ -44,7 +44,7 @@
 
 - # Blood Donation Managment
     - ### Tech Stack
-        - Frontend (React, MUI, tailwind, daisyUI)
+        - Frontend (React, MUI, tailwind, daisyUI, React Router)
         - Authenticated with firebase
         - Backend (Node, Express)
         - Database (MongoDB)
@@ -57,13 +57,32 @@
 
 - # TechReviwer
     - ### Tech Stacks
-        - Frontend (React, tailwind, daisyUI)
+        - Frontend (React, tailwind, daisyUI, React Router)
         - Backend (Node, Express)
         - Database (MongoDB)
     - ### Features
         - Authentication with firebase
         - Theme changable light to dark dark to light
         - User can save the product to the cart
+        - User can add new tech product
+
+###### Short Desc
+<p>TechReviwer application is for showcase the tech products. If the user want user can add new tech product, see product details and save to the cart</p>
+
+
+- # Fashion Info
+    - ### Tech Stacks
+        - Frontend (React, tailwind, daisyUI, React Router)
+        - Backend (Node, Express)
+        - Database (MongoDB)
+    - ### Features
+        - Authentication with firebase
+        - User can save the purchase the service
+        - User can add new services
+
+
+
+
 <!--
 **riadsarkar45/riadsarkar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
