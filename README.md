@@ -48,13 +48,22 @@
         - Authenticated with firebase
         - Backend (Node, Express)
         - Database (MongoDB)
+        - JWT used for seceurity purpose
 
     - ### Features
-        - Responsive Client
-        - User can raised hand to the needed person via confirming donation rerquest
         - User can can make blood Donation REQUEST
         - User can write ARTICLE/BLOG about something they want
         - User can search for a donor and help the recipient
+
+- # TechReviwer
+    - ### Tech Stacks
+        - Frontend (React, tailwind, daisyUI)
+        - Backend (Node, Express)
+        - Database (MongoDB)
+    - ### Features
+        - Authentication with firebase
+        - Theme changable light to dark dark to light
+        - User can save the product to the cart
 <!--
 **riadsarkar45/riadsarkar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
